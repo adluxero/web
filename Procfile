@@ -1,0 +1,1 @@
+web: gunicorn UTS_WEB:app
